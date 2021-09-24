@@ -1,0 +1,22 @@
+.middle {
+  margin-top: 25vh;
+  height: 60vh;
+  border-right: dotted 2px rgb(185, 180, 180);
+  padding: 6em 0em;
+}
+.app-header {
+  background-color: #22d0b4;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -5px 5px 8px 3px rgba(0, 0, 0, 0.2);
+}
+
+.header-heading {
+  color: #231f20;
+  font-size: 30px;
+  font-weight: 500;
+  margin: 2px 5px;
+}
